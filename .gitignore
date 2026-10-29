@@ -1,0 +1,17 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local environment files (keep shareable examples)
+.env
+.env.*
+!.env.example
+
+# Private keys
+*.pem
+*.key
+
+# Editor temporary files
+*.swp
+*.swo
+*~
